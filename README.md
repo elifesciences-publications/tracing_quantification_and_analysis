@@ -1,3 +1,6 @@
+This code is associated with the paper from Gehrlach et al., "A whole-brain connectivity map of mouse insular cortex". eLife, 2020. http://doi.org/10.7554/eLife.55585
+
+
 # Tracing_quantification_and_analysis
 
 pipelines for detection and analysis of RV+ neurons and AAV+ pixels. 
